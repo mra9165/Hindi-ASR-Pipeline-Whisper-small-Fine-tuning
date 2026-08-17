@@ -97,8 +97,8 @@ Evaluation metric:
 
 | Model | WER |
 |--------|----:|
-| Pretrained Whisper-Small | XX.XX% |
-| Fine-Tuned Whisper-Small | XX.XX% |
+| Pretrained Whisper-Small | 0.6936% |
+| Fine-Tuned Whisper-Small | 0.3724% |
 
 
 
