@@ -100,7 +100,7 @@ Evaluation metric:
 | Pretrained Whisper-Small | XX.XX% |
 | Fine-Tuned Whisper-Small | XX.XX% |
 
-> Replace with your experimental results.
+
 
 ---
 
